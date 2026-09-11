@@ -240,3 +240,6 @@ This repository serves as the official landing page for Sam & Max: Ice Station S
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sam & Max: Ice Station Santa today!**
+
+---
+**Last updated:** 2026-09-11 22:18:51 UTC
