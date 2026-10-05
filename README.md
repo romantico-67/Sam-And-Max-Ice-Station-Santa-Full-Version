@@ -242,4 +242,4 @@ This repository serves as the official landing page for Sam & Max: Ice Station S
 **Get the most recent version of Sam & Max: Ice Station Santa today!**
 
 ---
-**Last updated:** 2026-10-05 08:32:04 UTC
+**Last updated:** 2026-10-05 18:01:45 UTC
